@@ -1,0 +1,51 @@
+#main-section{
+    width: 350px;
+    height: 435px;
+    border: 1px solid gray;
+    margin: 40px auto;
+
+}
+#img-section img{
+    width: 300px;
+    height: 250px;
+    border-radius: 16px;
+    margin-top: 20px;
+    margin-left: 25px;
+   
+}
+#best-seller{
+        color: rgb(2, 81, 81);
+        font-weight: bolder;
+        background-color: rgb(216, 239, 242);
+        padding: 3px 5px 3px 5px;
+        border-radius: 8px;
+        border: 1px solid rgb(42, 137, 4);
+        position: absolute;
+        top: 70px;
+        left: 540px;
+    }
+#best-buyer{
+    color: red;
+        font-weight: bolder;
+        background-color: rgb(216, 239, 242);
+        padding: 3px 5px 3px 5px;
+        border-radius: 8px;
+        border: 1px solid rgb(196, 139, 139);
+        position: absolute;
+        top: 265px;
+        left: 700px;
+}
+#info-section{
+    padding: 8px;
+}
+#info-section h2 {
+    text-align: center;
+    padding: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#info-section p{
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
